@@ -13,7 +13,10 @@ This project transforms raw HR data into actionable insights, helping the organi
 - Measure attrition rates across different demographics.  
 - Identify vulnerable segments with high turnover.  
 - Evaluate compensation trends and their impact on retention.  
-- Support HR strategies for recruitment, pay equity, and succession planning.  
+- Support HR strategies for recruitment, pay equity, and succession planning.
+
+  <img width="1160" height="722" alt="image" src="https://github.com/user-attachments/assets/87eb6eb1-ba88-45cd-bad4-ba86f3c5b200" />
+
 
 ---
 
